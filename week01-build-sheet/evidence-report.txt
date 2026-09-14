@@ -1,5 +1,5 @@
-﻿=== CVNP1606-W01 Evidence Report ===
-Generated : 2026-09-01 09:28:04
+=== CVNP1606-W01 Evidence Report ===
+Generated : 2026-09-11 16:43:55
 Host      : CVNP1606-LAB
 
 [SYSTEM]
@@ -20,10 +20,9 @@ Host      : CVNP1606-LAB
   cvnp1606-lab\Administrator (Local)
 
 [TPM]
-  TpmPresent   : True
-  TpmEnabled   : True
+  TPM query failed (may need admin or TPM not present): Access denied 
 
 [REQUIRED FILES]
-  inventory.txt : NOT FOUND
+  inventory.txt : FOUND (39 bytes)
 
 Commit this file (evidence-report.txt) to your GitHub repo under week01-build-sheet/.
