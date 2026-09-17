@@ -2,17 +2,29 @@
 
 
 
-\*\*To:\*\* IT Management Team
+\## To
+
+IT Management Team
 
 
 
-\*\*From:\*\* Lily Nance
+\## From
+
+Lily Nance
 
 
 
-\*\*Subject:\*\* Least Privilege Account Review
+\## Subject
+
+Least Privilege Account Review
 
 
+
+\---
+
+
+
+\## Account Audit Review
 
 
 
@@ -20,7 +32,23 @@ As part of this account audit, I reviewed local user permissions and confirmed t
 
 
 
+\---
+
+
+
+\## When Is Local Administrator Access Justified?
+
+
+
 I believe local administrator access should only be given when it is necessary for a person's job responsibilities. For example, IT technicians may need administrator rights to install software, troubleshoot operating system issues, manage services, or configure hardware. However, users who only need access to business applications should be limited to standard users. Giving unnecessary administrator access can increase security risks and allow accidental changes to the system.
+
+
+
+\---
+
+
+
+\## When Should Requests for Administrator Access Be Escalated?
 
 
 
@@ -28,7 +56,23 @@ If a user requests administrator access, I would review the reason for the reque
 
 
 
+\---
+
+
+
+\## What Evidence Is Required for an Exception Request?
+
+
+
 If temporary elevated access is approved, there should be documentation supporting the request. This should include the business justification, the specific task being completed, the length of time access is needed, who approved the request, and any alternative solutions that were considered. An audit trail should also be maintained to confirm that the access was used correctly and removed when it is no longer needed.
+
+
+
+\---
+
+
+
+\## Conclusion
 
 
 

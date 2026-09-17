@@ -10,6 +10,10 @@
 
 
 
+\---
+
+
+
 \## What I Asked the AI to Help With
 
 
@@ -19,6 +23,10 @@
 \- Create a draft of the least-privilege memo
 
 \- Review my documentation
+
+
+
+\---
 
 
 
@@ -38,11 +46,19 @@
 
 
 
+\---
+
+
+
 \## One AI Suggestion I Accepted, Revised, or Rejected
 
 
 
 I accepted the recommendation to use the principle of least privilege as the foundation for my memo and revised the wording to better reflect my own understanding.
+
+
+
+\---
 
 
 
