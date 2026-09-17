@@ -2,15 +2,21 @@
 
 
 
-To: IT Management Team
-
-From: Lily Nance
-
-Subject: Least Privilege Account Review
+\*\*To:\*\* IT Management Team
 
 
 
-As part of this account audit, I reviewed local user permissions and confirmed that the AcmeSeasonal01 account was set up as a standard user and not a member of the Administrators group. The goal was to follow the principle of least privilege by making sure users only have the access they need to do their jobs.
+\*\*From:\*\* Lily Nance
+
+
+
+\*\*Subject:\*\* Least Privilege Account Review
+
+
+
+
+
+As part of this account audit, I reviewed local user permissions and confirmed that the Seasonal-staff account was set up as a standard user and not a member of the Administrators group. The goal was to follow the principle of least privilege by making sure users only have the access they need to do their jobs.
 
 
 
