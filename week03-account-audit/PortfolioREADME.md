@@ -2,12 +2,6 @@
 
 
 
-\## About Me
-
-
-
-...
-
 
 
 \---
@@ -35,8 +29,6 @@ In addition, I gained hands-on experience using PowerShell and Windows administr
 These experiences helped me become more confident with Windows administration, troubleshooting, and documenting technical work in a professional and organized manner.
 
 
-
-...
 
 
 
