@@ -1,0 +1,46 @@
+﻿=== CVNP1606-W04 Evidence Report ===
+Generated : 2026-09-21 08:44:13
+Host      : CVNP1606-LAB
+
+[HR SECURITY GROUPS]
+  HR-Managers : FOUND
+  HR-Staff : FOUND
+  Audit-Readonly : FOUND
+
+[HR-STAFF-TEST ACCOUNT]
+  hr-staff-test : FOUND | Enabled: True
+  In HR-Staff       : True   (should be True)
+  In HR-Managers    : False  (should be False)
+  In Administrators : False     (should be False)
+
+[FOLDER STRUCTURE]
+  C:\HR : EXISTS
+  C:\HR\Payroll : EXISTS
+  C:\HR\Payroll\CurrentYear : EXISTS
+  C:\HR\Payroll\Archive : EXISTS
+
+[SMB SHARE: Payroll]
+  Share path : C:\HR\Payroll
+  BUILTIN\Administrators       Full
+  cvnp1606-lab\HR-Managers     Full
+  cvnp1606-lab\HR-Staff        Change
+  cvnp1606-lab\Audit-Readonly  Read
+  Everyone removed : YES
+
+[NTFS ACL: C:\HR\Payroll]
+  cvnp1606-lab\HR-Managers         FullControl
+  cvnp1606-lab\HR-Staff            Modify, Synchronize
+  cvnp1606-lab\Audit-Readonly      ReadAndExecute, Synchronize
+  BUILTIN\Administrators           FullControl
+  NT AUTHORITY\SYSTEM              FullControl
+  BUILTIN\Users                    ReadAndExecute, Synchronize
+  NT AUTHORITY\Authenticated Users Modify, Synchronize
+  NT AUTHORITY\Authenticated Users -536805376
+
+[REQUIRED FILES]
+  acl-before.txt : FOUND (1348 bytes)
+  acl-after.txt : FOUND (1348 bytes)
+  access-test-results.md : FOUND (1764 bytes)
+  README.md : FOUND (4892 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week04-permissions-matrix/.
