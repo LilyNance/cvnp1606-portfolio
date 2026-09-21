@@ -1,8 +1,8 @@
-\# Support Note Examples
+# Support Note Examples
 
 
 
-\## Example 1: Resolved User Navigation Issue
+## Example 1: Resolved User Navigation Issue
 
 
 
@@ -10,11 +10,11 @@ User could not locate Mouse Pointer settings after the Windows 11 refresh. Guide
 
 
 
-\---
+---
 
 
 
-\## Example 2: Escalation Required
+## Example 2: Escalation Required
 
 
 
@@ -22,21 +22,21 @@ User attempted to uninstall Xbox Live but the Uninstall option was unavailable. 
 
 
 
-\---
+---
 
 
 
-\## Example 3: Professional Rewrite
+## Example 3: Professional Rewrite
 
 
 
-\### Original Response
+### Original Response
 
 I don't know why it isn't working. Try restarting it.
 
 
 
-\### Revised Support Response
+### Revised Support Response
 
 
 
