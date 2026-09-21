@@ -1,8 +1,8 @@
-\# Validated Steps
+# Validated Steps
 
 
 
-\## FAQ 1 - Mouse Pointer Size
+## FAQ 1 - Mouse Pointer Size
 
 
 
@@ -30,11 +30,11 @@ Can also be found using Windows Search for "Mouse pointer".
 
 
 
-\---
+---
 
 
 
-\## FAQ 2 - Color Filters
+## FAQ 2 - Color Filters
 
 
 
@@ -62,11 +62,11 @@ Shortcut: Windows + Ctrl + C toggles color filters.
 
 
 
-\---
+---
 
 
 
-\## FAQ 3 - Uninstall Xbox Live
+## FAQ 3 - Uninstall Xbox Live
 
 
 
@@ -94,11 +94,11 @@ Applications may require administrator permissions.
 
 
 
-\---
+---
 
 
 
-\## FAQ 4 - Change Windows Hello PIN
+## FAQ 4 - Change Windows Hello PIN
 
 
 
@@ -126,11 +126,11 @@ Users must know their current PIN.
 
 
 
-\---
+---
 
 
 
-\## FAQ 5 - Event Viewer
+## FAQ 5 - Event Viewer
 
 
 
