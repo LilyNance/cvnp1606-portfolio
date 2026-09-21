@@ -1,8 +1,8 @@
-\# Portfolio Card
+# Portfolio Card
 
 
 
-\## About Me
+## About Me
 
 
 
@@ -10,11 +10,11 @@ My name is Lily Nance. I am developing hands-on IT support and cybersecurity ski
 
 
 
-\---
+---
 
 
 
-\## What I Learned
+## What I Learned
 
 
 
@@ -34,21 +34,21 @@ These experiences helped me become more confident with Windows administration, t
 
 
 
-\---
+---
 
 
 
-\## What I Can Do Now
+## What I Can Do Now
 
 
 
-\- I can create and document a clean Windows 11 virtual machine.
+- I can create and document a clean Windows 11 virtual machine.
 
 
 
-\- I can write support documentation and verify instructions on a live system.
+- I can write support documentation and verify instructions on a live system.
 
 
 
-\- I can use PowerShell to manage user accounts and audit administrator access.
+- I can use PowerShell to manage user accounts and audit administrator access.
 
