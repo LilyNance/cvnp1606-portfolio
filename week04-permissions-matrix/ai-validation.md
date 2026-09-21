@@ -1,8 +1,8 @@
-\# AI Validation
+# AI Validation
 
 
 
-\## What I asked AI to help with
+## What I asked AI to help with
 
 
 
@@ -10,7 +10,7 @@ I used Microsoft Copilot to help explain the lab requirements, PowerShell comman
 
 
 
-\## What I verified on the live VM
+## What I verified on the live VM
 
 
 
@@ -18,7 +18,7 @@ I verified all group creation, user memberships, share permissions, NTFS permiss
 
 
 
-\## One AI suggestion I accepted, revised, or rejected
+## One AI suggestion I accepted, revised, or rejected
 
 
 
