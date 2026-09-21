@@ -1,56 +1,55 @@
-\# AI Disclosure
+# AI Disclosure
 
 
 
-\## AI Tool Used
+## AI Tool Used
 
 
 
-\- Microsoft Copilot
+- Microsoft Copilot
 
 
 
-\---
+---
 
 
 
-\## What I Asked the AI to Help With
+## What I Asked the AI to Help With
 
 
 
-\- Organize my README
+- Organize my README
 
-\- Create a draft of the least-privilege memo
+- Create a draft of the least-privilege memo
 
-\- Review my documentation
-
-
-
-\---
+- Review my documentation
 
 
 
-\## What I Verified on the Live VM
+---
+
+
+## What I Verified on the Live VM
 
 
 
-\- Restored the baseline snapshot
+- Restored the baseline snapshot
 
-\- Created the seasonal-staff account
+- Created the seasonal-staff account
 
-\- Tested UAC
+- Tested UAC
 
-\- Audited local administrator membership
+- Audited local administrator membership
 
-\- Exported PowerShell results
-
-
-
-\---
+- Exported PowerShell results
 
 
 
-\## One AI Suggestion I Accepted, Revised, or Rejected
+---
+
+
+
+## One AI Suggestion I Accepted, Revised, or Rejected
 
 
 
@@ -58,11 +57,11 @@ I accepted the recommendation to use the principle of least privilege as the fou
 
 
 
-\---
+---
 
 
 
-\## Validation Statement
+## Validation Statement
 
 
 
