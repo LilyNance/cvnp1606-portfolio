@@ -1,8 +1,8 @@
-\# Access Test Results
+# Access Test Results
 
 
 
-\## Test 1 - Create File
+## Test 1 - Create File
 
 
 
@@ -13,8 +13,7 @@ Result: ALLOWED
 Successfully created TestFile.txt in the \\\\localhost\\Payroll\\CurrentYear folder.
 
 
-
-\## Test 2 - Edit File
+## Test 2 - Edit File
 
 
 
@@ -26,7 +25,7 @@ Successfully opened, edited, and saved TestFile.txt.
 
 
 
-\## Test 3 - Delete Admin File
+## Test 3 - Delete Admin File
 
 
 
@@ -38,7 +37,7 @@ Successfully deleted AdminFile.txt that was created by the administrator account
 
 
 
-\## Test 4 - Security Permissions
+## Test 4 - Security Permissions
 
 
 
@@ -50,7 +49,7 @@ I was able to view the Security tab and Advanced Security Settings for the Payro
 
 
 
-\## Permissions Matrix
+## Permissions Matrix
 
 
 
@@ -66,7 +65,7 @@ I was able to view the Security tab and Advanced Security Settings for the Payro
 
 
 
-\## Least-Privilege Rationale
+## Least-Privilege Rationale
 
 
 
