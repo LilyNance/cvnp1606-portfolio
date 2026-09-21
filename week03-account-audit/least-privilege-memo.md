@@ -1,30 +1,30 @@
-\# Least Privilege Access Memo
+# Least Privilege Access Memo
 
 
 
-\## To
+## To
 
 IT Management Team
 
 
 
-\## From
+## From
 
 Lily Nance
 
 
 
-\## Subject
+## Subject
 
 Least Privilege Account Review
 
 
 
-\---
+---
 
 
 
-\## Account Audit Review
+## Account Audit Review
 
 
 
@@ -32,11 +32,11 @@ As part of this account audit, I reviewed local user permissions and confirmed t
 
 
 
-\---
+---
 
 
 
-\## When Is Local Administrator Access Justified?
+## When Is Local Administrator Access Justified?
 
 
 
@@ -44,11 +44,11 @@ I believe local administrator access should only be given when it is necessary f
 
 
 
-\---
+---
 
 
 
-\## When Should Requests for Administrator Access Be Escalated?
+## When Should Requests for Administrator Access Be Escalated?
 
 
 
@@ -56,11 +56,11 @@ If a user requests administrator access, I would review the reason for the reque
 
 
 
-\---
+---
 
 
 
-\## What Evidence Is Required for an Exception Request?
+## What Evidence Is Required for an Exception Request?
 
 
 
@@ -68,11 +68,11 @@ If temporary elevated access is approved, there should be documentation supporti
 
 
 
-\---
+---
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
