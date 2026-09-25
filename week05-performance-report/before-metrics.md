@@ -1,8 +1,8 @@
-\# Before Metrics
+# Before Metrics
 
 
 
-\## Task Manager Performance
+## Task Manager Performance
 
 
 
@@ -10,19 +10,19 @@ Screenshot: Screenshots/before-performance.png
 
 
 
-\### Recorded Metrics
+### Recorded Metrics
 
 
 
-\- CPU Usage: 98%
+- CPU Usage: 98%
 
-\- Memory Usage: 45%
+- Memory Usage: 45%
 
-\- Disk Usage: 0%
+- Disk Usage: 0%
 
 
 
-\## Top CPU Consumers
+## Top CPU Consumers
 
 
 
@@ -34,7 +34,7 @@ I used PowerShell to identify the processes using the most CPU resources. The re
 
 
 
-\## Startup Apps
+## Startup Apps
 
 
 
@@ -46,7 +46,7 @@ I reviewed the Startup Apps tab to check for programs that could contribute to s
 
 
 
-\## Resource Monitor
+## Resource Monitor
 
 
 
@@ -58,7 +58,7 @@ The CPU tab in Resource Monitor showed four PowerShell processes using most of t
 
 
 
-\## Bottleneck Hypothesis
+## Bottleneck Hypothesis
 
 
 
