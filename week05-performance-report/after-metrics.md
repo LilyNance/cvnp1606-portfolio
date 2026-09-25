@@ -1,12 +1,12 @@
-\# After Metrics
+# After Metrics
 
 
 
-\## Before and After Comparison
+## Before and After Comparison
 
 
 
-\### CPU Usage
+### CPU Usage
 
 
 
@@ -22,7 +22,7 @@ Result: Improved significantly.
 
 
 
-\### Memory Usage
+### Memory Usage
 
 
 
@@ -38,7 +38,7 @@ Result: Improved slightly.
 
 
 
-\### Disk Usage
+### Disk Usage
 
 
 
@@ -54,7 +54,7 @@ Result: No significant change.
 
 
 
-\## Task Manager Performance
+## Task Manager Performance
 
 
 
@@ -62,7 +62,7 @@ Screenshot: Screenshots/after-performance.png
 
 
 
-\## Top CPU Consumers
+## Top CPU Consumers
 
 
 
@@ -74,7 +74,7 @@ After the remediation, the PowerShell processes were no longer consuming large a
 
 
 
-\## Resource Monitor
+## Resource Monitor
 
 
 
@@ -86,7 +86,7 @@ Resource Monitor confirmed that CPU usage returned to normal levels after the ba
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
