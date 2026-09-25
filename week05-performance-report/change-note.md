@@ -1,8 +1,8 @@
-\# Change Note
+# Change Note
 
 
 
-\## Change Applied
+## Change Applied
 
 
 
@@ -10,19 +10,19 @@ I stopped and removed four PowerShell background jobs that were generating conti
 
 
 
-\## Tool Used
+## Tool Used
 
 
 
-\- PowerShell
+- PowerShell
 
-\- Task Manager
+- Task Manager
 
-\- Resource Monitor
+- Resource Monitor
 
 
 
-\## Commands Used
+## Commands Used
 
 
 
@@ -36,7 +36,7 @@ Get-Job | Remove-Job
 
 
 
-\## Why I Chose This Remediation
+## Why I Chose This Remediation
 
 
 
@@ -44,7 +44,7 @@ Task Manager, Resource Monitor, and the Get-Process command all showed that the 
 
 
 
-\## Why This Change Is Safe
+## Why This Change Is Safe
 
 
 
@@ -52,7 +52,7 @@ The PowerShell jobs were created only for testing and were not required for norm
 
 
 
-\## Why This Change Is Reversible
+## Why This Change Is Reversible
 
 
 
@@ -60,7 +60,7 @@ The change can be reversed by running the original PowerShell command used to cr
 
 
 
-\## Evidence
+## Evidence
 
 
 
