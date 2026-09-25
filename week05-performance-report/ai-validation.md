@@ -1,8 +1,8 @@
-\# AI Validation
+# AI Validation
 
 
 
-\## What I Asked AI To Help With
+## What I Asked AI To Help With
 
 
 
@@ -10,7 +10,7 @@ I used Microsoft Copilot to help me understand the assignment requirements, orga
 
 
 
-\## What I Verified
+## What I Verified
 
 
 
@@ -18,7 +18,7 @@ I personally restored the VM snapshot, generated the CPU workload, collected all
 
 
 
-\## AI Suggestion Review
+## AI Suggestion Review
 
 
 
