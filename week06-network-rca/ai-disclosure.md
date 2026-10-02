@@ -1,8 +1,8 @@
-\# AI Disclosure
+# AI Disclosure
 
 
 
-\## AI Tool Used
+## AI Tool Used
 
 
 
@@ -10,7 +10,7 @@ Microsoft Copilot
 
 
 
-\## What AI Helped With
+## What AI Helped With
 
 
 
@@ -18,7 +18,7 @@ Copilot helped me organize my troubleshooting documentation, root-cause analysis
 
 
 
-\## How I Verified the Information
+## How I Verified the Information
 
 
 
@@ -26,7 +26,7 @@ I verified all network settings, screenshots, command output, and diagnostic res
 
 
 
-\## AI Suggestion Reviewed
+## AI Suggestion Reviewed
 
 
 
