@@ -1,8 +1,8 @@
-\# Week 6 Network Root Cause Analysis
+# Week 6 Network Root Cause Analysis
 
 
 
-\## Scenario
+## Scenario
 
 
 
@@ -10,7 +10,7 @@ Emily Park, a remote employee at ACME, reported that she could not access the AC
 
 
 
-\## Fault Simulated
+## Fault Simulated
 
 
 
@@ -18,25 +18,25 @@ I simulated a DNS issue by changing the DNS server to an incorrect address. This
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- ipconfig /all
+- ipconfig /all
 
-\- ping
+- ping
 
-\- nslookup
+- nslookup
 
-\- Test-NetConnection
+- Test-NetConnection
 
-\- PowerShell
+- PowerShell
 
-\- Network Adapter Settings
+- Network Adapter Settings
 
 
 
-\## Root Cause
+## Root Cause
 
 
 
@@ -44,33 +44,33 @@ The fault layer was DNS. I changed the DNS server to an invalid address, which p
 
 
 
-\## Evidence Collected
+## Evidence Collected
 
 
 
-\- Screenshot 1: ipconfig /all output
+- Screenshot 1: ipconfig /all output
 
-\- Screenshot 2: Ping and nslookup tests
+- Screenshot 2: Ping and nslookup tests
 
-\- Screenshot 3: Test-NetConnection results
+- Screenshot 3: Test-NetConnection results
 
-\- Screenshot 4: connectivity-evidence.txt verification
+- Screenshot 4: connectivity-evidence.txt verification
 
-\- Screenshot 5: Simulated DNS fault
+- Screenshot 5: Simulated DNS fault
 
-\- Screenshot 6: Evidence file with incorrect DNS settings
+- Screenshot 6: Evidence file with incorrect DNS settings
 
-\- Screenshot 7: DNS timeout and failure results
+- Screenshot 7: DNS timeout and failure results
 
-\- connectivity-evidence.txt
-
-
-
-\## Troubleshooting Narrative
+- connectivity-evidence.txt
 
 
 
-\### 1. What fault did you simulate and what symptom did it produce?
+## Troubleshooting Narrative
+
+
+
+### 1. What fault did you simulate and what symptom did it produce?
 
 
 
@@ -78,7 +78,7 @@ I simulated a DNS fault by changing the DNS server to an incorrect address. This
 
 
 
-\### 2. Which diagnostic command gave you the first clear signal of the fault layer?
+### 2. Which diagnostic command gave you the first clear signal of the fault layer?
 
 
 
@@ -86,7 +86,7 @@ The `nslookup` command provided the first clear indication of the problem. It fa
 
 
 
-\### 3. What did you try first to resolve it?
+### 3. What did you try first to resolve it?
 
 
 
@@ -94,7 +94,7 @@ I checked the network adapter settings and reviewed the DNS server configuration
 
 
 
-\### 4. What confirmed the fix worked?
+### 4. What confirmed the fix worked?
 
 
 
@@ -102,7 +102,7 @@ After restoring the network adapter to obtain DNS settings automatically, the ne
 
 
 
-\### 5. How did you verify the result after the fix?
+### 5. How did you verify the result after the fix?
 
 
 
@@ -110,7 +110,7 @@ I ran `ipconfig /all` and confirmed that the DNS server had returned to the corr
 
 
 
-\### 6. What was the business impact of leaving this issue unresolved?
+### 6. What was the business impact of leaving this issue unresolved?
 
 
 
@@ -118,7 +118,7 @@ If the issue was not fixed, Emily would be unable to access company resources, s
 
 
 
-\## Escalation Summary
+## Escalation Summary
 
 
 
