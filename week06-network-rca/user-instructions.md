@@ -1,4 +1,4 @@
-\# User Instructions for Resolving ACME Network Access Issues
+# User Instructions for Resolving ACME Network Access Issues
 
 
 
@@ -6,7 +6,7 @@ If you cannot access the ACME intranet, shared drives, or other company resource
 
 
 
-\## Step 1: Check Whether the Internet Is Working
+## Step 1: Check Whether the Internet Is Working
 
 
 
@@ -26,7 +26,7 @@ If you cannot access the ACME intranet, shared drives, or other company resource
 
 
 
-\## Step 2: Run the Windows Network Troubleshooter
+## Step 2: Run the Windows Network Troubleshooter
 
 
 
@@ -46,7 +46,7 @@ If you cannot access the ACME intranet, shared drives, or other company resource
 
 
 
-\## Step 3: Restart Your Network Connection
+## Step 3: Restart Your Network Connection
 
 
 
@@ -66,7 +66,7 @@ If you cannot access the ACME intranet, shared drives, or other company resource
 
 
 
-\## Step 4: Restart Your Computer
+## Step 4: Restart Your Computer
 
 
 
@@ -82,7 +82,7 @@ If you cannot access the ACME intranet, shared drives, or other company resource
 
 
 
-\## Step 5: Test ACME Resources
+## Step 5: Test ACME Resources
 
 
 
@@ -96,7 +96,7 @@ If you cannot access the ACME intranet, shared drives, or other company resource
 
 
 
-\## When to Contact the Helpdesk
+## When to Contact the Helpdesk
 
 
 
@@ -104,15 +104,15 @@ Stop troubleshooting and contact the helpdesk if:
 
 
 
-\- You cannot open any websites.
+- You cannot open any websites.
 
-\- The problem comes back after following these steps.
+- The problem comes back after following these steps.
 
-\- You see a yellow warning icon on the network connection.
+- You see a yellow warning icon on the network connection.
 
-\- You receive repeated network error messages.
+- You receive repeated network error messages.
 
-\- You still cannot access ACME resources after completing all the steps in this guide.
+- You still cannot access ACME resources after completing all the steps in this guide.
 
 
 
