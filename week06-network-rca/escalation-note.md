@@ -1,22 +1,22 @@
-\# Escalation Note
+# Escalation Note
 
 
 
-\## Ticket Information
+## Ticket Information
 
 
 
-\- Ticket ID: CVNP1606-W06-006
+- Ticket ID: CVNP1606-W06-006
 
-\- User: Emily Park
+- User: Emily Park
 
-\- Device: ACME-EMILY-REMOTE
+- Device: ACME-EMILY-REMOTE
 
-\- Issue: Unable to access ACME intranet and shared drives
+- Issue: Unable to access ACME intranet and shared drives
 
 
 
-\## Actions Completed by Tier 1 Support
+## Actions Completed by Tier 1 Support
 
 
 
@@ -70,17 +70,17 @@ Contact: Network Operations Team
 
 Provide:
 
-\- Ticket ID
+- Ticket ID
 
-\- User name
+- User name
 
-\- Computer name
+- Computer name
 
-\- Time the issue occurred
+- Time the issue occurred
 
-\- Diagnostic results
+- Diagnostic results
 
-\- Screenshots and evidence files
+- Screenshots and evidence files
 
 
 
@@ -102,15 +102,15 @@ Contact: Network Security Team
 
 Provide:
 
-\- Ticket ID
+- Ticket ID
 
-\- Computer name
+- Computer name
 
-\- IP address
+- IP address
 
-\- Diagnostic results
+- Diagnostic results
 
-\- Screenshots and evidence files
+- Screenshots and evidence files
 
 
 
@@ -122,7 +122,7 @@ Firewall rules and security policies are managed by the Network Security Team. T
 
 
 
-\## Handoff Summary
+## Handoff Summary
 
 
 
