@@ -1,8 +1,8 @@
-\# Change Note
+# Change Note
 
 
 
-\## Ticket Information
+## Ticket Information
 
 
 
@@ -18,7 +18,7 @@ Date: October 5, 2026
 
 
 
-\## Before State
+## Before State
 
 
 
@@ -46,7 +46,7 @@ The Hardware ID and driver information were collected and recorded in hardware-i
 
 
 
-\## Action Taken
+## Action Taken
 
 
 
@@ -58,7 +58,7 @@ After enabling the device, I reopened the device properties and verified that th
 
 
 
-\## Reason For Decision
+## Reason For Decision
 
 
 
@@ -70,7 +70,7 @@ Because the issue was caused by the device being disabled rather than a driver f
 
 
 
-\## Expected After State
+## Expected After State
 
 
 
@@ -82,7 +82,7 @@ The adapter should also no longer appear as a problem device when reviewed throu
 
 
 
-\## Result
+## Result
 
 
 
