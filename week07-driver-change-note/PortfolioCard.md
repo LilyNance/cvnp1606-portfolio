@@ -1,8 +1,8 @@
-\# Portfolio Card
+# Portfolio Card
 
 
 
-\## About Me
+## About Me
 
 
 
@@ -10,7 +10,7 @@ I am developing hands-on IT support and cybersecurity skills through Windows adm
 
 
 
-\## What I Learned
+## What I Learned
 
 
 
@@ -38,21 +38,21 @@ These experiences helped me become more confident with Windows administration, t
 
 
 
-\## What I Can Do Now
+## What I Can Do Now
 
 
 
-\- I can create and document a clean Windows 11 virtual machine.
+- I can create and document a clean Windows 11 virtual machine.
 
-\- I can write support documentation and verify instructions on a live system.
+- I can write support documentation and verify instructions on a live system.
 
-\- I can use PowerShell to manage user accounts and audit administrator access.
+- I can use PowerShell to manage user accounts and audit administrator access.
 
-\- I can build a secure HR folder structure, test permissions with multiple user accounts, and document access settings clearly for future support and troubleshooting.
+- I can build a secure HR folder structure, test permissions with multiple user accounts, and document access settings clearly for future support and troubleshooting.
 
-\- I can diagnose slow Windows systems using Task Manager, Resource Monitor, and PowerShell, identify performance bottlenecks using system evidence, and document before and after results to verify a fix.
+- I can diagnose slow Windows systems using Task Manager, Resource Monitor, and PowerShell, identify performance bottlenecks using system evidence, and document before and after results to verify a fix.
 
-\- I can troubleshoot Windows network connectivity issues using PowerShell and common networking tools, identify where a network problem is occurring, document my findings with evidence, create easy-to-follow instructions for users, and recognize when an issue needs to be escalated to another support team.
+- I can troubleshoot Windows network connectivity issues using PowerShell and common networking tools, identify where a network problem is occurring, document my findings with evidence, create easy-to-follow instructions for users, and recognize when an issue needs to be escalated to another support team.
 
-\- I can use Device Manager and PowerShell to identify device and driver issues, collect hardware inventory information, evaluate driver rollback and remediation options, verify device functionality after a repair, and create change notes and rollback plans that support future troubleshooting and technician handoffs.
+- I can use Device Manager and PowerShell to identify device and driver issues, collect hardware inventory information, evaluate driver rollback and remediation options, verify device functionality after a repair, and create change notes and rollback plans that support future troubleshooting and technician handoffs.
 
