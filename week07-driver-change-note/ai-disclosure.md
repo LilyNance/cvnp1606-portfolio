@@ -1,8 +1,8 @@
-\# AI Disclosure
+# AI Disclosure
 
 
 
-\## What I Asked AI To Help With
+## What I Asked AI To Help With
 
 
 
@@ -10,7 +10,7 @@ I used Microsoft Copilot to help me understand the Week 7 lab instructions, orga
 
 
 
-\## What I Verified On The Live VM
+## What I Verified On The Live VM
 
 
 
@@ -18,7 +18,7 @@ I personally completed the lab in my virtual machine and verified all technical 
 
 
 
-\## One AI Suggestion Accepted, Revised, or Rejected
+## One AI Suggestion Accepted, Revised, or Rejected
 
 
 
