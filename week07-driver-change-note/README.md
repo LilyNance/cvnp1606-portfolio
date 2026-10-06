@@ -1,8 +1,8 @@
-\# CVNP 1606 Week 7 - Devices, Drivers, and Peripherals
+# CVNP 1606 Week 7 - Devices, Drivers, and Peripherals
 
 
 
-\## Scenario Summary
+## Scenario Summary
 
 
 
@@ -10,47 +10,47 @@ In this lab, I used Device Manager and PowerShell to investigate a device issue,
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- Device Manager
+- Device Manager
 
-\- PowerShell
+- PowerShell
 
-\- Get-PnpDevice
+- Get-PnpDevice
 
-\- Hardware Inventory Documentation
+- Hardware Inventory Documentation
 
-\- Change Note Documentation
+- Change Note Documentation
 
-\- Rollback Planning
-
-
-
-\## Evidence Included
+- Rollback Planning
 
 
 
-\- hardware-inventory.txt
-
-\- change-note.md
-
-\- rollback-plan.md
-
-\- evidence-report.txt
-
-\- Device Manager screenshots
-
-\- PowerShell screenshots
+## Evidence Included
 
 
 
-\## Troubleshooting Narrative
+- hardware-inventory.txt
+
+- change-note.md
+
+- rollback-plan.md
+
+- evidence-report.txt
+
+- Device Manager screenshots
+
+- PowerShell screenshots
 
 
 
-\### 1. What went wrong, or what could realistically have gone wrong?
+## Troubleshooting Narrative
+
+
+
+### 1. What went wrong, or what could realistically have gone wrong?
 
 
 
@@ -58,7 +58,7 @@ The Intel(R) 82574L Gigabit Network Connection was disabled and displayed Code 2
 
 
 
-\### 2. What evidence did you check first?
+### 2. What evidence did you check first?
 
 
 
@@ -66,7 +66,7 @@ I first checked Device Manager to identify the device and see the error message.
 
 
 
-\### 3. What did you try?
+### 3. What did you try?
 
 
 
@@ -74,7 +74,7 @@ Before making any changes, I collected all of the required evidence and document
 
 
 
-\### 4. What fixed it, or what would you try next?
+### 4. What fixed it, or what would you try next?
 
 
 
@@ -82,7 +82,7 @@ Enabling the network adapter fixed the problem and restored the device to a work
 
 
 
-\### 5. How did you verify the result?
+### 5. How did you verify the result?
 
 
 
@@ -90,7 +90,7 @@ After making the change, I reopened the device properties in Device Manager and 
 
 
 
-\### 6. What was the support or security impact of the issue or fix?
+### 6. What was the support or security impact of the issue or fix?
 
 
 
