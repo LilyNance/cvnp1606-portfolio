@@ -1,0 +1,21 @@
+﻿=== CVNP1606-W07 Evidence Report ===
+Generated : 2026-10-05 13:35:37
+Host      : CVNP1606-LAB
+
+[PNP DEVICES - NON-OK STATUS]
+  Status: Unknown Class: Monitor Name: Generic Monitor
+
+[PNP DEVICES - ALL (summary by status)]
+  OK : 191 device(s)
+  Unknown : 1 device(s)
+
+[RECENTLY MODIFIED DRIVERS (last 30 days)]
+  No drivers modified in last 30 days.
+
+[REQUIRED FILES]
+  hardware-inventory.txt : FOUND
+  change-note.md : FOUND
+  rollback-plan.md : FOUND
+  README.md : FOUND
+
+Commit this file (evidence-report.txt) to your GitHub repo under week07-driver-change-note.
