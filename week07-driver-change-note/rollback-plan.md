@@ -1,8 +1,8 @@
-\# Rollback Plan
+# Rollback Plan
 
 
 
-\## Ticket Information
+## Ticket Information
 
 
 
@@ -18,7 +18,7 @@ Date: October 5, 2026
 
 
 
-\## What Was Changed
+## What Was Changed
 
 
 
@@ -26,7 +26,7 @@ The Intel(R) 82574L Gigabit Network Connection was restored by enabling the devi
 
 
 
-\## Restore Target State
+## Restore Target State
 
 
 
@@ -50,7 +50,7 @@ Driver Version: 12.19.1.32
 
 
 
-\## Who Is Responsible
+## Who Is Responsible
 
 
 
@@ -62,33 +62,33 @@ The following people should be notified if a rollback is required:
 
 
 
-\- Lead Technician
+- Lead Technician
 
-\- Alex Torres, Office Manager
-
-
-
-\## Rollback Steps
+- Alex Torres, Office Manager
 
 
 
-1\. Open Device Manager.
-
-2\. Expand the Network Adapters category.
-
-3\. Locate Intel(R) 82574L Gigabit Network Connection.
-
-4\. Right-click the device.
-
-5\. Select Disable Device.
-
-6\. Confirm the action when prompted.
-
-7\. Close Device Manager.
+## Rollback Steps
 
 
 
-\## How To Verify The Rollback
+1. Open Device Manager.
+
+2. Expand the Network Adapters category.
+
+3. Locate Intel(R) 82574L Gigabit Network Connection.
+
+4. Right-click the device.
+
+5. Select Disable Device.
+
+6. Confirm the action when prompted.
+
+7. Close Device Manager.
+
+
+
+## How To Verify The Rollback
 
 
 
@@ -96,11 +96,11 @@ After completing the rollback:
 
 
 
-1\. Open the device Properties window.
+1. Open the device Properties window.
 
-2\. Select the General tab.
+2. Select the General tab.
 
-3\. Confirm the device status shows:
+3. Confirm the device status shows:
 
 
 
@@ -108,11 +108,11 @@ After completing the rollback:
 
 
 
-4\. Verify the device matches the original state that was documented before the change.
+4. Verify the device matches the original state that was documented before the change.
 
 
 
-\## Escalation Path
+## Escalation Path
 
 
 
