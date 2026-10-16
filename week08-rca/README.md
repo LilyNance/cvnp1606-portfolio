@@ -1,8 +1,8 @@
-\# Root Cause Analysis
+# Root Cause Analysis
 
 
 
-\## Hypothesis
+## Hypothesis
 
 
 
@@ -10,7 +10,7 @@ Based on the event logs, the computer experienced multiple unexpected shutdowns 
 
 
 
-\## Supporting Evidence
+## Supporting Evidence
 
 
 
@@ -18,7 +18,7 @@ I found multiple Event ID 41 entries from the Kernel-Power source and Event ID 6
 
 
 
-\## Alternative Causes Considered
+## Alternative Causes Considered
 
 
 
@@ -26,7 +26,7 @@ One possible cause was a planned restart from Windows Update or another system p
 
 
 
-\## Escalation Note
+## Escalation Note
 
 
 
@@ -34,11 +34,10 @@ This issue should be escalated if Event ID 41 and Event ID 6008 continue to appe
 
 
 
-\# Troubleshooting Narrative
+# Troubleshooting Narrative
 
  
-
-\## 1. What was the problem as reported by the customer, and what initial evidence was provided?
+## 1. What was the problem as reported by the customer, and what initial evidence was provided?
 
  
 
@@ -46,7 +45,7 @@ The customer reported that the workstation rebooted unexpectedly overnight while
 
  
 
-\## 2. What steps did you take to investigate, and in what order?
+## 2. What steps did you take to investigate, and in what order?
 
  
 
@@ -54,7 +53,7 @@ I restored the VM to my baseline snapshot, opened Event Viewer, and reviewed the
 
  
 
-\## 3. What did you find in the event logs, and what did each finding mean?
+## 3. What did you find in the event logs, and what did each finding mean?
 
  
 
@@ -62,7 +61,7 @@ I found multiple Event ID 41 entries from the Kernel-Power source and multiple E
 
  
 
-\## 4. What was your conclusion about the root cause, and what evidence supports it?
+## 4. What was your conclusion about the root cause, and what evidence supports it?
 
  
 
@@ -70,7 +69,7 @@ My conclusion was that the system experienced multiple unexpected shutdowns and 
 
  
 
-\## 5. What alternative causes did you consider, and why did you rule them out?
+## 5. What alternative causes did you consider, and why did you rule them out?
 
  
 
@@ -78,7 +77,7 @@ I considered the possibility of a planned restart caused by Windows Updates or a
 
  
 
-\## 6. What would cause you to escalate this ticket rather than close it?
+## 6. What would cause you to escalate this ticket rather than close it?
 
  
 
