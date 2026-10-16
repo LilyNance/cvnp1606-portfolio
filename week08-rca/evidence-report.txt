@@ -1,0 +1,33 @@
+﻿=== CVNP1606-W08 Evidence Report ===
+Generated : 2026-10-16 14:50:43
+Host      : CVNP1606-LAB
+
+[SYSTEM LOG - CRITICAL AND ERROR (last 7 days)]
+  2026-10-16 14:04:11 ID:20 Microsoft-Windows-WindowsUpdateClient Error
+  2026-10-16 13:45:47 ID:41 Microsoft-Windows-Kernel-Power Critical
+  2026-10-16 13:45:59 ID:6008 EventLog Error
+  2026-10-16 13:09:07 ID:20 Microsoft-Windows-WindowsUpdateClient Error
+  2026-10-16 13:05:03 ID:34 Microsoft-Windows-Time-Service Error
+
+[UNEXPECTED SHUTDOWN EVENTS (6008 / 41)]
+  2026-10-16 13:45:47 ID:41
+  2026-10-16 13:45:59 ID:6008
+  2026-09-11 06:52:52 ID:41
+  2026-09-11 06:52:59 ID:6008
+  2026-08-28 07:15:32 ID:41
+  2026-08-28 07:15:36 ID:6008
+  2026-08-28 07:03:43 ID:41
+  2026-08-28 07:03:48 ID:6008
+  2026-08-25 20:35:24 ID:41
+  2026-08-25 20:35:28 ID:6008
+
+[LAST BOOT]
+  Last boot : 2026-10-16 13:45:37
+
+[REQUIRED FILES]
+  event-export.txt : FOUND
+  event-timeline.md : FOUND
+  README.md : FOUND
+  ai-disclosure.md : FOUND
+
+Commit this file (evidence-report.txt) to your GitHub repo under week08-rca/.
