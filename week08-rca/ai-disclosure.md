@@ -1,4 +1,4 @@
-\# AI Use Disclosure
+# AI Use Disclosure
 
 
 
