@@ -4,7 +4,7 @@ This repository contains my completed Week 9 Midterm Service Desk Surge assignme
 
 
 
-Contents
+## Contents
 
 ticket-pack.md
 
@@ -16,7 +16,7 @@ evidence-report.txt
 
 evidence folder
 
-Tickets Completed
+## Tickets Completed
 
 Ticket A - Account Lockout
 
@@ -26,7 +26,7 @@ Ticket C - Driver Failure
 
 Ticket D - Network Connectivity
 
-Notes
+## Notes
 
 All troubleshooting, screenshots, and documentation were completed and verified in the provided lab environment.
 
