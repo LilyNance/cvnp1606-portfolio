@@ -1,8 +1,8 @@
-\# Change Note - Ticket C Driver Failure
+# Change Note - Ticket C Driver Failure
 
 
 
-\## Observation
+## Observation
 
 
 
@@ -10,7 +10,7 @@ When I checked Device Manager, the audio device had a warning icon next to it. T
 
 
 
-\## Change
+## Change
 
 
 
@@ -18,7 +18,7 @@ I opened Device Manager and selected Update Driver. I used the Search automatica
 
 
 
-\## Approval
+## Approval
 
 
 
@@ -26,7 +26,7 @@ Approved by: Lily Nance (Student Technician)
 
 
 
-\## Result
+## Result
 
 
 
@@ -34,7 +34,7 @@ After the driver was installed, the device moved to the Sound, video and game co
 
 
 
-\## Rollback Plan
+## Rollback Plan
 
 
 
@@ -42,7 +42,7 @@ If the new driver caused problems, I would go back into Device Manager and use R
 
 
 
-\## Verification
+## Verification
 
 
 
