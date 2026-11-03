@@ -1,0 +1,42 @@
+﻿=== CVNP1606-W09 Evidence Report (Midterm) ===
+Generated : 2026-11-03 13:30:17
+Host      : CVNP1606-LAB
+
+[TICKET A - ACCOUNT STATE]
+  acme-pos-cashier01           Enabled: True  LockedOut: 
+  acme.com                     Enabled: True  LockedOut: 
+  ACMEStandardUser             Enabled: True  LockedOut: 
+  Administrator                Enabled: False  LockedOut: 
+  DefaultAccount               Enabled: False  LockedOut: 
+  Guest                        Enabled: False  LockedOut: 
+  hr-staff-test                Enabled: True  LockedOut: 
+  seasonal-staff               Enabled: True  LockedOut: 
+  WDAGUtilityAccount           Enabled: False  LockedOut: 
+
+[TICKET B - TOP PROCESSES (CPU)]
+  explorer                     CPU: 205.8s   WS: 446.1 MB
+  copilotapp                   CPU: 29.7s   WS: 149.8 MB
+  vmtoolsd                     CPU: 21.9s   WS: 26.1 MB
+  ctfmon                       CPU: 17.5s   WS: 33.8 MB
+  msedgewebview2               CPU: 9.1s   WS: 40.2 MB
+  copilotapp                   CPU: 7.5s   WS: 39.7 MB
+  msedgewebview2               CPU: 6.5s   WS: 124.1 MB
+  OneDrive                     CPU: 5.2s   WS: 85.4 MB
+
+[TICKET C - PNP DEVICE STATUS]
+  Status: Unknown      Class: Monitor              Name: Generic Monitor
+
+[TICKET D - NETWORK STATE]
+  Ethernet0 : 192.168.144.137/24  GW: 192.168.144.253
+  Ping 127.0.0.1 : REACHABLE
+  Ping 8.8.8.8 : UNREACHABLE
+
+[SECURITY LOG - LOCKOUT EVENTS (4625 / 4740, last 24h)]
+  No lockout events in last 24h.
+
+[REQUIRED FILES]
+  ticket-pack.md : FOUND (8387 bytes)
+  change-note.md : FOUND (1285 bytes)
+  README.md : FOUND (533 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under midterm-service-desk/.
