@@ -1,4 +1,4 @@
-CVNP1606 Week 9 Midterm - Service Desk Surge
+# CVNP1606 Week 9 Midterm - Service Desk Surge
 
 This repository contains my completed Week 9 Midterm Service Desk Surge assignment for CVNP1606.
 
