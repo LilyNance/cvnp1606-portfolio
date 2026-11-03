@@ -1,8 +1,8 @@
-&#x20;# CVNP1606 Week 9 Midterm - Service Desk Surge
+# CVNP1606 Week 9 Midterm - Service Desk Surge
 
 
 
-\## Prioritization Rationale
+## Prioritization Rationale
 
 
 
@@ -10,7 +10,7 @@ I worked Ticket A first because the cashier account was locked and the shift cou
 
 
 
-\## Ticket A - Account Lockout
+## Ticket A - Account Lockout
 
 
 
@@ -18,7 +18,7 @@ I used Local Users and Groups, Event Viewer, and PowerShell to investigate the c
 
 
 
-\## Ticket D - Network Connectivity
+## Ticket D - Network Connectivity
 
 
 
@@ -26,7 +26,7 @@ I used ipconfig, ping tests, and Test-NetConnection to investigate the network i
 
 
 
-\### User Instructions for Marcus
+### User Instructions for Marcus
 
 
 
@@ -46,7 +46,7 @@ Thank you for your patience.
 
 
 
-\## Ticket C - Driver Failure
+## Ticket C - Driver Failure
 
 
 
@@ -58,7 +58,7 @@ After the installation completed, the device moved to the Sound, video and game 
 
 
 
-\## Ticket B - Slow Workstation
+## Ticket B - Slow Workstation
 
 
 
@@ -70,7 +70,7 @@ I reviewed the Startup Apps list and found multiple enabled startup items, inclu
 
 
 
-\### Before/After Comparison
+### Before/After Comparison
 
 
 
@@ -82,7 +82,7 @@ After: Resource usage was reviewed and potential causes were identified. No imme
 
 
 
-\### Prioritization Retrospective
+### Prioritization Retrospective
 
 
 
@@ -90,11 +90,11 @@ After working all four tickets, I would keep the same priority order. Ticket A p
 
 
 
-\## Troubleshooting Narrative
+## Troubleshooting Narrative
 
 
 
-\### 1. What went wrong across the queue, or what was the most significant issue you encountered?
+### 1. What went wrong across the queue, or what was the most significant issue you encountered?
 
 
 
@@ -102,7 +102,7 @@ The queue had four different issues including a locked account, a network proble
 
 
 
-\### 2. What evidence did you check first, and why?
+### 2. What evidence did you check first, and why?
 
 
 
@@ -110,7 +110,7 @@ Before making any changes, I checked the evidence for each ticket to understand 
 
 
 
-\### 3. What did you try on each ticket?
+### 3. What did you try on each ticket?
 
 
 
@@ -118,7 +118,7 @@ For Ticket A, I reviewed the account status and Security log events before unloc
 
 
 
-\### 4. What resolved each issue, or what would you try next if you could not resolve it?
+### 4. What resolved each issue, or what would you try next if you could not resolve it?
 
 
 
@@ -126,7 +126,7 @@ Ticket A was resolved by unlocking the account. Ticket C was resolved by updatin
 
 
 
-\### 5. How did you verify the result for each ticket you closed?
+## 5. How did you verify the result for each ticket you closed?
 
 
 
@@ -134,7 +134,7 @@ For Ticket A, I reopened the account properties and confirmed the account was no
 
 
 
-\### 6. What was the support or security impact of the issues or fixes across the queue?
+### 6. What was the support or security impact of the issues or fixes across the queue?
 
 
 
@@ -142,7 +142,7 @@ The account lockout prevented an employee from starting work. The network issue 
 
 
 
-\## What I Can Do Now
+## What I Can Do Now
 
 
 
