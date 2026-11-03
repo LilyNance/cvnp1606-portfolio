@@ -1,8 +1,7 @@
-\# AI Disclosure
+# AI Disclosure
 
 
-
-\## What I asked the AI to help with
+## What I asked the AI to help with
 
 
 
@@ -10,7 +9,7 @@ I used AI to help me review my work against the assignment requirements, and imp
 
 
 
-\## What I verified on the live VM before including it in documentation
+## What I verified on the live VM before including it in documentation
 
 
 
