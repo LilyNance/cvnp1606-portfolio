@@ -1,8 +1,8 @@
-\# Tenant Setup Notes
+# Tenant Setup Notes
 
 
 
-\## Tenant Name
+## Tenant Name
 
 
 
@@ -10,7 +10,7 @@ Alexandria college
 
 
 
-\## Trial Expiry Date
+## Trial Expiry Date
 
 
 
@@ -18,17 +18,17 @@ Alexandria college
 
 
 
-\## Groups Created
+## Groups Created
 
 
 
-\### ACME-Pilot-Devices
+### ACME-Pilot-Devices
 
 
 
-\- Group Type: Security
+- Group Type: Security
 
-\- Membership Type: Assigned
+- Membership Type: Assigned
 
 
 
@@ -40,13 +40,13 @@ This group is used for pilot devices that will be manually added and tested befo
 
 
 
-\### ACME-All-Devices
+### ACME-All-Devices
 
 
 
-\- Group Type: Security
+- Group Type: Security
 
-\- Membership Type: Dynamic Device
+- Membership Type: Dynamic Device
 
 
 
