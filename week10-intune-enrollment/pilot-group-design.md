@@ -1,8 +1,8 @@
-\# Pilot Group Design
+# Pilot Group Design
 
 
 
-\## ACME Intune Rollout Plan
+## ACME Intune Rollout Plan
 
 
 
@@ -10,7 +10,7 @@ The rollout will be completed over four weeks and include all 50 ACME endpoints.
 
 
 
-\### Wave 1
+### Wave 1
 
 
 
@@ -18,7 +18,7 @@ Wave 1 will include IT staff and technical users. These users are the lowest-ris
 
 
 
-\### Wave 2
+### Wave 2
 
 
 
@@ -26,7 +26,7 @@ Wave 2 will include administrative and office staff from the primary location. T
 
 
 
-\### Wave 3
+### Wave 3
 
 
 
@@ -34,7 +34,7 @@ Wave 3 will include department managers and supervisors. By this stage, the enro
 
 
 
-\### Wave 4
+### Wave 4
 
 
 
@@ -42,7 +42,7 @@ Wave 4 will include all remaining users, remote workers, and any systems with sp
 
 
 
-\## Advancement Criteria
+## Advancement Criteria
 
 
 
@@ -50,7 +50,7 @@ Each wave must demonstrate successful enrollment into Microsoft Entra ID and Int
 
 
 
-\## Rollback Signal
+## Rollback Signal
 
 
 
