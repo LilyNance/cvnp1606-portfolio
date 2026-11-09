@@ -1,0 +1,24 @@
+﻿=== CVNP1606-W10 Evidence Report ===
+Generated : 2026-11-09 14:31:31
+Host      : CVNP1606-LAB
+
+[DEVICE JOIN STATE (dsregcmd /status)]
+               AzureAdJoined : YES
+            EnterpriseJoined : NO
+                DomainJoined : NO
+                    DeviceId : 0ba238a9-7fcf-45a3-85fc-e8359a588f39
+                  TenantName : Alexandria college
+                      MdmUrl : 
+             WorkplaceJoined : NO
+
+[MDM ENROLLMENT (registry)]
+  MDM enrollment records found: 35
+
+[REQUIRED FILES]
+  join-state-evidence.md : FOUND (1001 bytes)
+  tenant-setup-notes.md : FOUND (834 bytes)
+  pilot-group-design.md : FOUND (2246 bytes)
+  enrollment-diagnosis.md : FOUND (1276 bytes)
+  README.md : FOUND (2556 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week10-intune-enrollment/.

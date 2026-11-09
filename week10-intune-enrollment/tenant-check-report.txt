@@ -1,0 +1,33 @@
+﻿=== CVNP1606 Tenant Readiness Report ===
+Generated : 2026-11-09 12:06:22
+
+[TENANT]
+  Tenant name    : Alexandria college
+  Default domain : CVNP1606.onmicrosoft.com
+  Tenant ID      : b62e9787-****  (full ID redacted - good habit for shared docs)
+  Signed in as   : Lily@CVNP1606.onmicrosoft.com
+
+[TENANT LICENSES]
+  SKU: INTUNE_A  (enabled: 25, assigned: 1)
+  [PASS] An Intune service plan exists on this tenant.
+  [WARN] No Entra ID P1 plan found. Week 11 Conditional Access tasks need it.
+  [WARN] Your account has no Intune license assigned yet. Fix: Microsoft 365 admin center > Users > Active users > your account > Licenses and apps. An enrolled device with a blank MdmUrl is the classic symptom of skipping this.
+
+[TRIAL LIFECYCLE]
+  Subscription   : INTUNE_A  (trial: True)
+  Expires        : 2026-12-09  (30 days from today)
+  Extension      : one-time +30 days allowed, only inside the last 15 days.
+                   Window: 2026-11-24 through 2026-12-08
+                   Where : admin.microsoft.com > Billing > Your products > (subscription) > Extend end date
+  [PASS] With the one-time extension, this trial covers the course end date (2026-12-13).
+  [WARN] Unextended, this trial dies before the course ends. SET A REMINDER to extend between 2026-11-24 and 2026-12-08.
+
+[SUMMARY]
+  PASS: 2   WARN: 3   FAIL: 0
+
+Next steps:
+  1. Fix any FAIL before starting the Week 10 lab. WARNs have fix pointers above.
+  2. Keep this file - it gives you the tenant name and expiry date that
+     tenant-setup-notes.md asks for, plus your extension deadline.
+  3. Export evidence (screenshots/reports) the same day you do portal work.
+     If the trial dies, your exported evidence still earns full credit.
