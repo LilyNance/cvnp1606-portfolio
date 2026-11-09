@@ -1,8 +1,8 @@
-\# Enrollment Diagnosis
+# Enrollment Diagnosis
 
 
 
-\## State
+## State
 
 
 
@@ -10,7 +10,7 @@ The Microsoft Entra join was successful because AzureAdJoined is set to YES. Wor
 
 
 
-\## Root Cause
+## Root Cause
 
 
 
@@ -18,7 +18,7 @@ The most likely cause is that automatic Intune enrollment did not occur after th
 
 
 
-\## Remediation
+## Remediation
 
 
 
@@ -34,7 +34,7 @@ The MDM user scope should be set to All or include a group containing the user.
 
 
 
-\## Verification
+## Verification
 
 
 
