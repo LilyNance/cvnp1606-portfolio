@@ -1,8 +1,8 @@
-\# Join State Evidence
+# Join State Evidence
 
 
 
-\## AzureAdJoined
+## AzureAdJoined
 
 
 
@@ -14,7 +14,7 @@ This shows the device is successfully joined to Microsoft Entra ID at the operat
 
 
 
-\## WorkplaceJoined
+## WorkplaceJoined
 
 
 
@@ -26,7 +26,7 @@ This shows the device is not using the BYOD registration path and is not only wo
 
 
 
-\## MDMUrl
+## MDMUrl
 
 
 
@@ -38,7 +38,7 @@ A blank MDMUrl indicates that Microsoft Intune enrollment did not complete succe
 
 
 
-\## TenantName
+## TenantName
 
 
 
@@ -50,7 +50,7 @@ This identifies the Microsoft Entra tenant that the device is joined to and conf
 
 
 
-\## DeviceId
+## DeviceId
 
 
 
