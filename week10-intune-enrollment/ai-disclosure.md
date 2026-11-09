@@ -1,8 +1,8 @@
-\# AI Disclosure
+# AI Disclosure
 
 
 
-\## What I asked the AI to help with
+## What I asked the AI to help with
 
 
 
@@ -10,7 +10,7 @@ I used AI to help me understand the lab instructions, review my screenshots, and
 
 
 
-\## What I verified on the live VM or admin portal before including it in documentation
+## What I verified on the live VM or admin portal before including it in documentation
 
 
 
@@ -18,7 +18,7 @@ I verified all screenshots, tenant information, group settings, enrollment resul
 
 
 
-\## One AI suggestion I accepted, revised, or rejected and why
+## One AI suggestion I accepted, revised, or rejected and why
 
 
 
