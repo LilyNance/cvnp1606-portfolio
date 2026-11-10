@@ -1,8 +1,8 @@
-\# Week 11 - Compliance, Conditional Access, Hello, and LAPS
+# Week 11 - Compliance, Conditional Access, Hello, and LAPS
 
 
 
-\## Portfolio Card
+## Portfolio Card
 
 
 
@@ -10,27 +10,27 @@ For this lab, I created and configured a Windows compliance policy in Intune and
 
 
 
-\## Files Included
+## Files Included
 
 
 
-\- compliance-policy-summary.md
+- compliance-policy-summary.md
 
-\- conditional-access-memo.md
+- conditional-access-memo.md
 
-\- laps-hello-note.md
+- laps-hello-note.md
 
-\- security-exception-template.md
+- security-exception-template.md
 
-\- ai-disclosure.md
+- ai-disclosure.md
 
-\- evidence-report.txt
+- evidence-report.txt
 
-\- Screenshots folder
+- Screenshots folder
 
 
 
-\## Week 11 Notes
+## Week 11 Notes
 
 
 
@@ -46,7 +46,7 @@ My own screenshots are also included and show the policy configuration, group as
 
 
 
-\## Evidence Notes
+## Evidence Notes
 
 
 
@@ -58,37 +58,37 @@ Screenshots documenting the Microsoft Entra Free licensing limitations are inclu
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\- Creating and configuring Windows compliance policies in Microsoft Intune
+- Creating and configuring Windows compliance policies in Microsoft Intune
 
-\- Assigning compliance policies to device groups
+- Assigning compliance policies to device groups
 
-\- Analyzing compliance results and identifying noncompliant settings
+- Analyzing compliance results and identifying noncompliant settings
 
-\- Understanding how Conditional Access uses compliance status to control access
+- Understanding how Conditional Access uses compliance status to control access
 
-\- Microsoft Entra ID device registration and enrollment concepts
+- Microsoft Entra ID device registration and enrollment concepts
 
-\- Windows Hello for Business authentication and security concepts
+- Windows Hello for Business authentication and security concepts
 
-\- Windows LAPS password management and rotation
+- Windows LAPS password management and rotation
 
-\- Security exception documentation and approval processes
+- Security exception documentation and approval processes
 
-\- Policy rollout planning and report-only evaluation concepts
+- Policy rollout planning and report-only evaluation concepts
 
-\- Technical documentation and troubleshooting
-
-
-
-\## Troubleshooting Narrative
+- Technical documentation and troubleshooting
 
 
 
-\### 1. What compliance settings did you configure, and which ones failed on your test device? What does each failure mean in practical terms?
+## Troubleshooting Narrative
+
+
+
+### 1. What compliance settings did you configure, and which ones failed on your test device? What does each failure mean in practical terms?
 
 
 
@@ -96,7 +96,7 @@ I configured three compliance settings: BitLocker, Minimum OS Version, and Micro
 
 
 
-\### 2. After creating the CA policy, what did the sign-in log show for your test account? If you could not access sign-in logs, explain what you would expect to see and why.
+### 2. After creating the CA policy, what did the sign-in log show for your test account? If you could not access sign-in logs, explain what you would expect to see and why.
 
 
 
@@ -104,7 +104,7 @@ I was unable to create a Conditional Access policy or view report-only sign-in r
 
 
 
-\### 3. What is the difference between Entra registration and Intune enrollment? Why does Emily Park's device being Entra registered but not enrolled matter for compliance?
+### 3. What is the difference between Entra registration and Intune enrollment? Why does Emily Park's device being Entra registered but not enrolled matter for compliance?
 
 
 
@@ -112,7 +112,7 @@ Entra registration allows a device to be recognized by the organization, while I
 
 
 
-\### 4. If ACME flips the CA policy from report-only to On tomorrow, which users are most at risk of being blocked? How would you identify them before making the change?
+### 4. If ACME flips the CA policy from report-only to On tomorrow, which users are most at risk of being blocked? How would you identify them before making the change?
 
 
 
@@ -120,7 +120,7 @@ The users most at risk are employees using personal devices or devices that are 
 
 
 
-\### 5. Describe a scenario where issuing a security exception to the compliance policy would be the right decision. What would the exception note need to include?
+### 5. Describe a scenario where issuing a security exception to the compliance policy would be the right decision. What would the exception note need to include?
 
 
 
@@ -128,7 +128,7 @@ A security exception could be appropriate for a temporary lab device that cannot
 
 
 
-\### 6. What is one thing you would do differently if you were building this compliance and CA setup for a real organization with 500 endpoints instead of a lab tenant?
+### 6. What is one thing you would do differently if you were building this compliance and CA setup for a real organization with 500 endpoints instead of a lab tenant?
 
 
 
