@@ -1,8 +1,8 @@
-\# Week 12 - Autopilot, Provisioning, and Configuration Profiles
+# Week 12 - Autopilot, Provisioning, and Configuration Profiles
 
 
 
-\## What I Can Do Now
+## What I Can Do Now
 
 
 
@@ -10,7 +10,7 @@ I can choose the correct Windows Autopilot deployment mode for different busines
 
 
 
-\## Scenario Summary
+## Scenario Summary
 
 
 
@@ -18,29 +18,29 @@ In this lab, I reviewed Windows Autopilot deployment modes and matched them to d
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- Microsoft Intune Admin Center
+- Microsoft Intune Admin Center
 
-\- Microsoft Entra ID
+- Microsoft Entra ID
 
-\- Windows Autopilot
+- Windows Autopilot
 
-\- Enrollment Status Page (ESP)
+- Enrollment Status Page (ESP)
 
-\- Settings Catalog Configuration Profiles
+- Settings Catalog Configuration Profiles
 
-\- PowerShell
+- PowerShell
 
-\- GitHub
+- GitHub
 
-\- Microsoft Copilot
+- Microsoft Copilot
 
 
 
-\## Steps Taken
+## Steps Taken
 
 
 
@@ -70,35 +70,35 @@ In this lab, I reviewed Windows Autopilot deployment modes and matched them to d
 
 
 
-\## Evidence Included
+## Evidence Included
 
 
 
-\- Deployment decision tree
+- Deployment decision tree
 
-\- Profile evidence document
+- Profile evidence document
 
-\- Repeatable deployment note
+- Repeatable deployment note
 
-\- Autopilot profile screenshots
+- Autopilot profile screenshots
 
-\- Enrollment Status Page screenshots
+- Enrollment Status Page screenshots
 
-\- Configuration profile screenshots
+- Configuration profile screenshots
 
-\- Assignment screenshots
+- Assignment screenshots
 
-\- Profile status screenshots
+- Profile status screenshots
 
-\- PowerShell configuration evidence
+- PowerShell configuration evidence
 
-\- Evidence report
+- Evidence report
 
-\- AI disclosure
+- AI disclosure
 
 
 
-\## Week 12 Notes
+## Week 12 Notes
 
 
 
@@ -114,39 +114,39 @@ My own screenshots are also included where applicable, along with the instructor
 
 
 
-\## Skills Demonstrated
+# Skills Demonstrated
 
 
 
-\- Windows Autopilot deployment planning
+- Windows Autopilot deployment planning
 
-\- User-driven deployment scenarios
+- User-driven deployment scenarios
 
-\- Self-deploying deployment scenarios
+- Self-deploying deployment scenarios
 
-\- Pre-provisioning (White Glove) deployment scenarios
+- Pre-provisioning (White Glove) deployment scenarios
 
-\- Enrollment Status Page review and verification
+- Enrollment Status Page review and verification
 
-\- Intune configuration profile management
+- Intune configuration profile management
 
-\- Group-based profile targeting
+- Group-based profile targeting
 
-\- Configuration profile verification and troubleshooting
+- Configuration profile verification and troubleshooting
 
-\- Device provisioning documentation
+- Device provisioning documentation
 
-\- Deployment planning and support procedures
+- Deployment planning and support procedures
 
-\- Technical documentation
-
-
-
-\## Troubleshooting Narrative
+- Technical documentation
 
 
 
-\### 1. What went wrong, or what could realistically have gone wrong?
+## Troubleshooting Narrative
+
+
+
+### 1. What went wrong, or what could realistically have gone wrong?
 
 
 
@@ -154,7 +154,7 @@ One potential issue is that an Autopilot profile, Enrollment Status Page configu
 
 
 
-\### 2. What evidence did you check first?
+### 2. What evidence did you check first?
 
 
 
@@ -162,7 +162,7 @@ I reviewed the instructor-provided screenshots showing the profile assignment, E
 
 
 
-\### 3. What did you try?
+### 3. What did you try?
 
 
 
@@ -170,7 +170,7 @@ I reviewed the provided profile assignments, targeting information, group member
 
 
 
-\### 4. What fixed it, or what would you try next?
+### 4. What fixed it, or what would you try next?
 
 
 
@@ -178,7 +178,7 @@ If a profile was not applying correctly, I would first verify group membership, 
 
 
 
-\### 5. How did you verify the result?
+### 5. How did you verify the result?
 
 
 
@@ -186,7 +186,7 @@ The instructor-provided profile status screenshot showed the ACME-Display-Timeou
 
 
 
-\### 6. What was the support or deployment impact of the issue or fix?
+### 6. What was the support or deployment impact of the issue or fix?
 
 
 
