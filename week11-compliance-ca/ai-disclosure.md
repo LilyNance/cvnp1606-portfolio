@@ -8,8 +8,7 @@ Microsoft Copilot
 
 ### How AI Was Used
 
-I used Microsoft Copilot to help organize my documentation, review assignment requirements, and improve the wording and formatting of written deliverables including the README, compliance-policy-summary.md, conditional-access-memo.md, laps-hello-note.md, and the security exception template.
-
+I used Microsoft Copilot to help organize my documentation, review assignment requirements, and improve the wording and formatting of written deliverables
 
 
 ### Verification Process
