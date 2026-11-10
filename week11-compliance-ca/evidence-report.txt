@@ -1,0 +1,28 @@
+﻿=== CVNP1606-W11 Evidence Report ===
+Generated : 2026-11-10 14:32:52
+Host      : CVNP1606-LAB
+
+[BITLOCKER STATUS]
+  BitLocker: Not configured or not available.
+
+[DEFENDER STATUS]
+  AntivirusEnabled       : True
+  RealTimeProtection     : True
+  AntivirusSignatureAge  : 0 day(s)
+
+[WINDOWS HELLO]
+  DevicePasswordLessBuildVersion: 2
+
+[DEVICE JOIN STATE]
+               AzureAdJoined : YES
+            EnterpriseJoined : NO
+                DomainJoined : NO
+             WorkplaceJoined : NO
+
+[REQUIRED FILES]
+  compliance-policy-summary.md : FOUND (1388 bytes)
+  conditional-access-memo.md : FOUND (1207 bytes)
+  laps-hello-note.md : FOUND (2078 bytes)
+  README.md : FOUND (6697 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week11-compliance-ca/.
