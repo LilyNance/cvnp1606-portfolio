@@ -104,11 +104,9 @@ In this lab, I reviewed Windows Autopilot deployment modes and matched them to d
 
 The Week 12 lab guide states that if Autopilot tasks cannot be completed because of hardware or licensing limitations, the instructor-provided screenshot package may be used as evidence. For this assignment, I used the provided Autopilot, Enrollment Status Page, configuration profile, assignment, and profile status screenshots to complete the required analysis and documentation.
 
-
+The instructor-provided evidence package was used in accordance with the Week 12 lab guide, which allows alternate evidence when Autopilot tasks cannot be completed due to hardware or licensing constraints.
 
 The instructor evidence package included screenshots showing the ACME Standard User Autopilot profile, Enrollment Status Page configuration, ACME-Display-Timeout-Policy settings, profile assignments, group targeting, and successful profile application results. These screenshots were used as supporting evidence when completing the deployment decision tree, profile evidence document, and deployment documentation.
-
-
 
 My own screenshots are also included where applicable, along with the instructor-provided evidence package used for this assignment.
 
