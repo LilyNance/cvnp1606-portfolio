@@ -1,0 +1,25 @@
+﻿=== CVNP1606-W12 Evidence Report ===
+Generated : 2026-11-10 15:39:57
+Host      : CVNP1606-LAB
+
+[DEVICE JOIN STATE (dsregcmd /status)]
+               AzureAdJoined : YES
+            EnterpriseJoined : NO
+                DomainJoined : NO
+                    DeviceId : 0ba238a9-7fcf-45a3-85fc-e8359a588f39
+                  TenantName : Alexandria college
+                      MdmUrl : 
+             WorkplaceJoined : NO
+
+[CONFIGURATION PROFILES (registry)]
+  MDM policy keys found: 2 (sample below)
+  DataProtection
+  knobs
+
+[REQUIRED FILES]
+  deployment-decision-tree.md : FOUND (2814 bytes)
+  profile-evidence.md : FOUND (1244 bytes)
+  repeatable-deployment-note.md : FOUND (1631 bytes)
+  README.md : FOUND (6032 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week12-autopilot-profiles/.
