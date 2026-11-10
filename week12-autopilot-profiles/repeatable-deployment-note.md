@@ -50,7 +50,7 @@ Verify the profile status shows Succeeded. A successful status confirms that the
 
 
 
-##### Expected Result
+### Expected Result
 
 The ACME-Display-Timeout-Policy is assigned to the ACME-Intune-Pilot group, the display timeout value is configured to 900 seconds, and the device configuration report shows a status of Succeeded.
 
