@@ -1,6 +1,6 @@
 # Repeatable Deployment Note
 
-##### ACME Display Timeout Profile Deployment
+### ACME Display Timeout Profile Deployment
 
 Sign in to the Microsoft Intune Admin Center using an account with Intune Administrator permissions.
 
