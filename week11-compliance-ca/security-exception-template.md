@@ -1,38 +1,18 @@
-\# Security Exception Request Template
+# Security Exception Request Template
 
 
 
-\## Exception Information
+## Exception Information
 
 
 
-\*\*User, Device, or System:\*\*
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\*\*Business Justification:\*\*
+*\*User, Device, or System:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\## Security Control Being Waived
-
-
-
-\*\*Control Being Waived:\*\*
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\*\*Reason Compliance Cannot Be Met:\*\*
+*\*Business Justification:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -42,11 +22,17 @@
 
 
 
-\## Risk Assessment
+## Security Control Being Waived
 
 
 
-\*\*Potential Risk Created by This Exception:\*\*
+*\*Control Being Waived:\*\*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+*\*Reason Compliance Cannot Be Met:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -56,17 +42,31 @@
 
 
 
-\## Exception Duration
+## Risk Assessment
 
 
 
-\*\*Start Date:\*\*
+*\*Potential Risk Created by This Exception:\*\*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+## Exception Duration
+
+
+
+*\*Start Date:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\*\*End Date:\*\*
+*\*End Date:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -76,31 +76,27 @@
 
 
 
-\## Approval
+## Approval
 
 
 
-\*\*Approved By:\*\*
+*\*Approved By:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\*\*Approval Date:\*\*
+*\*Approval Date:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\## Compensating Control
+## Compensating Control
 
 
 
-\*\*What alternative security control will be used while this exception is active?\*\*
-
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*\*What alternative security control will be used while this exception is active?\*\*
 
 
 
@@ -108,17 +104,21 @@
 
 
 
-\## Follow-Up Review
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\*\*Review Date:\*\*
+## Follow-Up Review
+
+
+
+*\*Review Date:\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\*\*Exception Status:\*\*
+*\*Exception Status:\*\*
 
 ☐ Open  
 
@@ -128,7 +128,7 @@
 
 
 
-\## Additional Notes
+## Additional Notes
 
 
 
